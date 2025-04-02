@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "SSRF Tester",
+  "name_for_model": "ssrf_tester",
+  "description_for_model": "A fake plugin for SSRF testing",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://webhook.site/c2284c44-188b-4e45-b38f-7f5ef3474035"
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://webhook.site/UNIQUE-ID/logo.png",
+  "contact_email": "test@example.com",
+  "legal_info_url": "https://webhook.site/UNIQUE-ID/legal"
+}
+
